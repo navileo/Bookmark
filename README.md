@@ -1,6 +1,10 @@
 # Smart Bookmark
 
+[![Live Demo](https://img.shields.io/badge/demo-live-blue?style=for-the-badge)](https://bookmark-ten-beta.vercel.app/)
+
 Smart Bookmark is a modern, real-time web application for organizing and managing your digital links. Built with performance and user experience in mind, it provides a clean, "standard moderate" interface for saving, categorizing, and accessing your bookmarks instantly across devices.
+
+🔗 **Live Link**: [https://bookmark-ten-beta.vercel.app/](https://bookmark-ten-beta.vercel.app/)
 
 ## 🚀 Features
 
